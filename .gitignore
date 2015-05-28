@@ -1,2 +1,25 @@
+
+### Operating systems ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+### Regular dev ###
+node_modules
+npm-debug.log
 .idea
-/components
+*.iml
+
+### bower ###
+/src/components/*
+
+### Other ###
+
+.target
+target
+.sass-cache
+/cssCache
+/.cache
