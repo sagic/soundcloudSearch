@@ -1,0 +1,12 @@
+{
+  "name": "soundcloudSearch",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.17",
+    "bootstrap": "~3.3.4",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.0",
+    "backbone.marionette": "~2.4.1",
+    "backbone.localStorage": "~1.1.16"
+  }
+}
